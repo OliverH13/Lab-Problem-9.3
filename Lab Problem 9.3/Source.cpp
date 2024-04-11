@@ -35,7 +35,6 @@ void display_run(int values[], int size) {
 		else { cout << values[x] << " "; }
 	}
 
-
 }
 
 bool has_run(int values[], int size) {
