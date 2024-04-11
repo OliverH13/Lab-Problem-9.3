@@ -16,7 +16,6 @@ int main() {
 	if (has_run(values, 20) == true) cout << "has run: ";
 	else cout << "no run: ";
 	display_run(values, 20);
-
 }
 
 void display_run(int values[], int size) {
